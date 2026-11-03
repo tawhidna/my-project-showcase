@@ -61,5 +61,5 @@ Welcome to my comprehensive professional showcase repository. My expertise is un
 ## ✉️ Contact & Professional Inquiries
 If you are a recruiter, engineering director, or prospective enterprise client looking to collaborate on full-stack application development, AI integrations, data infrastructure, or creative media production, let's connect:
 
-* **Professional Email:** [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn Profile:** [://linkedin.com](https://://linkedin.com)
+* **Professional Email:** [mdtawhidna@gmail.com](mailto:mdtawhidna@gmail.com)
+* **LinkedIn Profile:** [://linkedin.com](www.linkedin.com/in/md-tawhidul-islam-49399173)
