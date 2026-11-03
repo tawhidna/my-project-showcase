@@ -51,10 +51,10 @@ Welcome to my comprehensive professional showcase repository. My expertise is un
 ## 🖼️ Project Gallery & Domain Previews
 
 ### 1. Enterprise Dashboard & Analytics (Power BI / Web)
-![Analytics Preview](https://unsplash.com)
+![Analytics Preview]([https://unsplash.com](https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00))
 
 ### 2. Commercial Photography & Visual Design Assets (Media Suite)
-![Professional Photography & Design](https://unsplash.com)
+![Professional Photography & Design]([https://unsplash.com](https://unsplash.com/photos/selective-focus-photography-of-yellow-petaled-flower-WwfyYM7lxIE))
 
 ---
 
