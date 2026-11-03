@@ -56,15 +56,15 @@ Welcome to my comprehensive professional showcase repository. My expertise is un
 ## 🖼️ Project Gallery & Domain Previews
 
 ### 1. Enterprise Dashboard & Analytics (Power BI / Web)
-![Analytics Preview](https://unsplash.com)
+![Analytics Preview](https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00)
 
 ### 2. Marketing Analytics & Campaign Tracking (Digital Growth Suite)
-![Digital Marketing and SEO](https://unsplash.com)
+![Digital Marketing and SEO](https://unsplash.com/photos/a-phone-with-a-graph-on-it-and-a-dollar-sign-next-to-it-CGPz19bMF2Q)
 
 ---
 
 ## ✉️ Contact & Professional Inquiries
 If you are a recruiter, engineering director, or prospective enterprise client looking to collaborate on full-stack application development, data infrastructure, AI integrations, or digital marketing growth strategies, let's connect:
 
-* **Professional Email:** [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn Profile:** [://linkedin.com](https://://linkedin.com)
+* **Professional Email:** [mdtawhidna@gmail.com](mailto:mdtawhidna@gmail.com)
+* **LinkedIn Profile:** [://linkedin.com](www.linkedin.com/in/md-tawhidul-islam-49399173)
