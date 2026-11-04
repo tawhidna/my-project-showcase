@@ -72,8 +72,8 @@ The presentation demonstrates multiple capacity, booking, buyer-summary, dashboa
 | Application Type | Windows Desktop Application |
 | Development Language | Visual Basic 6.0 |
 | Main Business Areas | Planning, Order Booking, Production Follow-up, Shipment, MIS |
-| Database Platform | Not specified in the supplied presentation |
-| Reporting Technology | Not specified in the supplied presentation |
+| Database Platform | MS SQL Server 2025 |
+| Reporting Technology | Crystal Reports 8 |
 
 Database and reporting technologies should be added only after they have been verified from the actual application and its development environment.
 
