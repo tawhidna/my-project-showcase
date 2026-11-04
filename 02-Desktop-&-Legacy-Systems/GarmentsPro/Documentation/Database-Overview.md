@@ -12,12 +12,12 @@ For that reason, this document records the known scope and provides a structured
 
 | Item | Verified Information |
 |---|---|
-| Database Management System | Not identified in the supplied presentation |
-| Database Name | Not identified |
-| Database Version | Not identified |
-| Database Server / Deployment | Not identified |
-| Connection Method | Requires verification |
-| Data Access Components | Requires verification |
+| Database Management System | Microsoft SQL Server |
+| Database Name | OrderStatus |
+| Database Version | Microsoft SQL Server 2025 |
+| Database Server / Deployment | Network Deployment |
+| Connection Method | ODBC DSN-based connectivity |
+| Data Access Components | Microsoft ADO Data Control (ADODC) and ODBC |
 
 Complete this section only after checking the original application configuration, development project, and authorised database environment.
 
