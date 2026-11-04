@@ -39,7 +39,7 @@ These views support review of capacity and booking information across different 
 
 Suggested screenshot location:
 
-`Screenshots/01-Capacity-Planning/`
+`ScreenShots/Capacity_Dashboard.png/`
 
 Suggested images:
 - `Monthly-Capacity-Report.png`
