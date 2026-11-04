@@ -627,13 +627,13 @@ Record the database objects found in the actual system.
 
 | Object Type | Documentation Required |
 |---|---|
-| Tables | Table name, purpose, key columns |
-| Views | View name, source tables, business purpose |
-| Stored Procedures | Procedure name, parameters, purpose |
-| Functions | Function name, return type, purpose |
-| Triggers | Trigger name, target table, business rule |
-| Indexes | Indexed columns and performance purpose |
-| Constraints | Primary key, foreign key, unique, check, and default constraints |
+| Base tables | 264 |
+| Views | 250 |
+| Stored Procedures | 10 |
+| Functions | 30 |
+| Triggers | 10 |
+| Indexes | 150 |
+| Constraints | 300 |
 
 If an object type is not used by the application, state that it is not used after verification.
 
