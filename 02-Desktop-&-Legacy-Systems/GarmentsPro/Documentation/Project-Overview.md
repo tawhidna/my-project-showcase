@@ -76,8 +76,8 @@ The exact workflow and dependencies between these stages are documented separate
 |---|---|
 | Development Environment | Microsoft Visual Basic 6.0 |
 | Application Type | Windows Desktop Application |
-| Database Platform | To be documented |
-| Reporting Technology | To be documented |
+| Database Platform | MS SQL Server |
+| Reporting Technology | Crystal Reports 8 |
 | Application Domain | Garment Manufacturing Management |
 
 ## 7. Key Characteristics
