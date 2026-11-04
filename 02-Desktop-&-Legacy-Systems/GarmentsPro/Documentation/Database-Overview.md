@@ -643,16 +643,98 @@ The project presentation lists reports for capacity, sample planning, export ord
 
 For each report, record the verified data source and calculation logic.
 
-| Report / Report Group | Source Object(s) | Main Filters | Calculation / Business Rule |
+| Report / Report Group | 
 |---|---|---|---|
-| Capacity reports | To be verified | To be verified | To be verified |
-| Sample planning reports | To be verified | To be verified | To be verified |
-| Export order booking reports | To be verified | To be verified | To be verified |
-| Order allocation reports | To be verified | To be verified | To be verified |
-| Production follow-up reports | To be verified | To be verified | To be verified |
-| Sewing and cutting reports | To be verified | To be verified | To be verified |
-| Shipment reports | To be verified | To be verified | To be verified |
-| MIS and dashboard reports | To be verified | To be verified | To be verified |
+| Buyer Wise sample Plan Status |
+| Not Done sample Plan Status |
+| sample Plan Status history |
+| Cut Plan wise sample Plan Status |
+| Sewing Start Finish date wise sample Plan Status |
+| Print Emb. Sent date wise sample Plan Status |
+| Order No. wise sample Plan Status |
+| Style wise sample Plan Status |
+| Sample Type wise sample Plan Status |
+| Merchandiser wise sample Plan Status |
+| Buyer and Date range wise sample Plan Status |
+| Date range wise cut plan |
+| Date range wise team prod. |
+| Date range wise sample deadline |
+| Date range wise sample sending status |
+| Export Order Booked Month, Season, Buyer Wise |
+| Export Order Booked Shipdate Range and Buyer Wise |
+| Export Order Booked Shipdate Range and Buyer Wise With Location |
+| Export Order Booked Month Wise All Buyer |
+| Export Order Booked Merchandiser Wise |
+| Export Order Booked Merchandiser Wise With Sort By Shipdate |
+| Export Order Booked Style Wise |
+| Export Order Booked Style Wise With Sort By Shipdate |
+| Export Order Booked Dept. Wise |
+| Export Order Booked Dept. Wise With Sort By Shipdate |
+| Date range and floor wise order allocation plan status |
+| Date range and buyer wise order allocation plan status |
+| Date and floor wise sewing status |
+| Date and floor wise cut to slip report |
+| Month and year wise sewing status |
+| Month and year wise cut to slip status |
+| Order no. wise sewing status |
+| Line no. wise sewing status |
+| Date range and floor wise order allocation plan status |
+| Date range and buyer wise order allocation plan status |
+| Date and floor wise sewing status |
+| Date and floor wise cut to slip report |
+| Month and year wise sewing status |
+| Month and year wise cut to slip status |
+| Order no. wise sewing status |
+| Line no. wise sewing status |
+| Order no. wise Production status |
+| Order no. wise accessories trim card |
+| Buyer and season wise all order |
+| Buyer, season and color wise all order |
+| Unshipped all order  |
+| Shipped order order |
+| Buyer merchandise wise unshipped order |
+| Buyer merchandise wise shipped order |
+| Style wise unshipped order |
+| Style wise shipped order |
+| Factory merchandiser wise unshipped order |
+| Factory merchandiser wise shipped order |
+| Order no. wise order sheet details |
+| Order No. wise sample Plan Status |
+| Order no. wise yarn issued status |
+| Order no. wise fabric requirement status |
+| Order no. wise knitting plan status |
+| Order no. wise knitting prduction details |
+| Order no. wise knitting prduction summery |
+| Order no. wise collar and cuff production staus |
+| Order no. wise dyeing plan status |
+| Order no. wise dyeing prodcution status |
+| Order no. wise lab test status |
+| Order no. wise dyeing delivery status |
+| Order no. wise Accessories status |
+| Order no. wise cad status |
+| Order no. wise sewing line production status |
+| Order no. and size wise cutting production status |
+| Buyer and season wise shipment information report |
+| Buyer, season and depertment wise shipment information report |
+| Shipdate range and buyer wise shipment information report |
+| Shipdate range and buyer wise shipment summery status |
+| Shipdate range and buyer wise shipment information details report |
+| Month Wise Capacity With Shipdate Range And Dept. Wise |
+| Weekly Capacity H&M Brands |
+| Weekly Capacity All Brands |
+| Weekly Capacity H&M Brands Country Wise Breakdown |
+| Summery Buyer H&M And Brands |
+| Summery Buyer All Buyers |
+| Summery Buyer Premium Brands |
+| Summery Buyer Multi Brands |
+| Summery Buyer H&M (Rubel & Tanjir) |
+| Summery Buyer Merchandiser Head wise All Buyer |
+| Summery Buyer Dept./Product Wise H&M Buyer |
+| Summery Buyer Merchandiser Head, Buyer And Product wise All Buyer |
+| Booking Report |
+| Monthly Booking And Order |
+| Capacity Dashboard |
+| Sewing Production Chart |
 
 ## 8. Entity Relationship Diagram
 
